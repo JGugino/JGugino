@@ -4,7 +4,9 @@ Hey👋 the name is Josh (Gugino), I'm a hobbiest web developer who works primar
 - HTML
 - CSS
 - JS
-- Svelte
+- Typescript
+- Svelte/SvelteKit
+- Go
 
 <!---
 JGugino/JGugino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
