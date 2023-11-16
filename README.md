@@ -1,4 +1,4 @@
-Hey👋 the name is Josh (Gugino), I'm a hobbiest web developer who works primarily with Svelte. 
+Hey👋 the name is Josh (Gugino), I am a freelance fullstack developer who works primarily with Svelte/SvelteKit but have started to mess around with GoLang. 
 
   Skills:
 - HTML
